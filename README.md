@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 ### [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=reo777)](https://github.com/ryo-ma/github-profile-trophy)
+
+### github-stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reo777&show_icons=true&theme=radical)
