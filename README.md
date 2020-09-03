@@ -1,10 +1,7 @@
-### Hi there 👋
+
 
 <!--
 **reo777/reo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=reo777)](https://github.com/ryo-ma/github-profile-trophy)
