@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 ### [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=reo777)](https://github.com/ryo-ma/github-profile-trophy)
 
-### github-stats
+### [github-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reo777&show_icons=true&theme=nightowl)
 
-### used languages
+### [used languages](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reo777&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
                                     
