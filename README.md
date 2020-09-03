@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ### github-stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reo777&show_icons=true&theme=Gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reo777)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reo777&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reo777&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
                                     
