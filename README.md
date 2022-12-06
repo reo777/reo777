@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 
 
 
-https://user-images.githubusercontent.com/42126368/205810541-3efa06af-05f3-4ede-8b0a-1296796e7ba9.png
-                                    
-![DefaultThumbnail]()
+
