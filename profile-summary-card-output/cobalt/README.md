@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/reo777/reo777/master/profile-summary-card-output/cobalt/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/reo777/reo777/master/profile-summary-card-output/cobalt/4-productive-time.svg)
+```
+
+    
